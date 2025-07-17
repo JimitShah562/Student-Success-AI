@@ -1,4 +1,4 @@
-# Student-Success-AI
+![Preview](<Screenshot 2025-07-17 232955.png>)# Student-Success-AI
 
 # 🎓 Student Success AI
 
